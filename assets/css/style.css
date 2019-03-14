@@ -1,0 +1,148 @@
+/*
+ * CONTACT US
+ ********************************/
+/* ==============================================================
+   CONTACT US
+   ============================================================== */
+.contact {
+  padding: 98px 0 0; }
+
+.contact-title h2 {
+  font-weight: 700;
+  text-align: center;
+  margin: -50px 0 24px; }
+
+.contact-form {
+  background: #4dc3ff;
+  position: relative;
+  z-index: 2; }
+  .contact-form h3 {
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 24px; }
+
+.btn-submit {
+  border: 3px solid #007bff;
+  color: #fff;
+  padding: 13px 44px;
+  font-size: 15px;
+  margin: 8px 0 0; }
+
+.btn-submit:hover {
+  border: 3px solid #fff;
+  background: #fff;
+  color: #cbb58b;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s; }
+
+.contact-option {
+  border-right: 1px solid #0099e6;
+  padding: 45px 64px; }
+  .contact-option .form-control {
+    border-color: transparent; }
+
+.contact-address {
+  padding: 45px 50px; }
+  .contact-address h3 {
+    font-weight: 700;
+    margin: 0 0 24px; }
+
+.contact-details i {
+  color: #fff;
+  float: left; }
+
+.contact-details h6 {
+  font-size: 19px;
+  color: #fff;
+  padding: 0 30px 0 30px; }
+
+.contact-details p {
+  color: #fff4e0;
+  padding: 0 30px 0 30px; }
+
+.contact-center {
+  background: #0099e6;
+  border-radius: 50%;
+  text-align: center;
+  width: 44px;
+  height: 44px;
+  padding: 10px 0;
+  color: #fff;
+  margin: 0 auto;
+  top: -17em;
+  position: relative;
+  z-index: 10; }
+
+#map {
+  height: 620px;
+  width: 100%;
+  margin: -250px 0 0; }
+
+@media (max-width: 767px) {
+  .contact-option {
+    border: 0;
+    padding: 20px 15px; }
+  .contact-option_rsp {
+    border-bottom: 1px solid #0099e6;
+    padding: 5px 25px 30px; }
+  .contact-center {
+    display: none; } }
+
+
+
+/* ==============================================================
+   ABOUT WELCOME
+   ============================================================== */
+.welcome_about {
+  padding: 98px 0; }
+  .welcome_about h2 {
+    font-weight: 600;
+    color: #2d2d2d;
+    margin: 0 0 28px; }
+  .welcome_about p {
+    color: #2d2d2d;
+    line-height: 1.8; }
+  .welcome_about img {
+    width: 100%; }
+
+.btn-about {
+  background: none;
+  border: 3px solid #cbb58b;
+  border-radius: 2px;
+  padding: 14px 20px;
+  color: #cbb58b;
+  font-size: 15px;
+  margin: 16px 0 0; }
+
+@media (max-width: 992px) {
+  .welcome_about {
+    padding: 58px 0; }
+  .btn-about {
+    margin: 0px 0 32px; } }
+
+
+/* ==============================================================
+   Registrasi
+   ============================================================== */
+
+    fieldset{
+      margin: 40px auto 0;
+      margin-bottom: 30px;
+      background-color: #090a09;
+      padding: 10px;
+      opacity: 0.5;
+      border-radius: 10px;
+    }
+
+    fieldset hr{
+      background-color: white;
+    }
+
+    fieldset h1{
+      color: white;
+    }
+
+    fieldset label{
+      color: white;
+    }
